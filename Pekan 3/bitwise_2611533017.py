@@ -2,8 +2,8 @@ print("===================================")
 print("3. OPERATOR BITWISE")
 print("===================================")
 
-angka1_3017 = int(input("Masukkan angka biatwise-1: "))
-angka2_3017 = int(input("Masukkan angka biatwise-2: "))
+angka1_3017 = int(input("Masukkan angka bitwise-1: "))
+angka2_3017 = int(input("Masukkan angka bitwise-2: "))
 
 print("\nAngka dalam bentuk desimal dan biner")
 print("angka1 =", angka1_3017, "| biner =", bin(angka1_3017))
